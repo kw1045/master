@@ -1,0 +1,2 @@
+sum vector is z = [(#=3) 3 5 7]
+PASS test_vector_add (exit status: 0)
